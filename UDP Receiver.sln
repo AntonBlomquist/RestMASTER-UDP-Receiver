@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP Receiver", "UDP Receiver\UDP Receiver.csproj", "{951AB480-E81F-46FC-BF04-6959F5D46547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951AB480-E81F-46FC-BF04-6959F5D46547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951AB480-E81F-46FC-BF04-6959F5D46547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951AB480-E81F-46FC-BF04-6959F5D46547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951AB480-E81F-46FC-BF04-6959F5D46547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDFDF2E-FA5A-43D8-BF87-78DCFED625EB}
+	EndGlobalSection
+EndGlobal
